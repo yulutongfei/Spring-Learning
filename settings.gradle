@@ -1,2 +1,3 @@
 rootProject.name = 'Spring-Learning'
+include 'Spring-MVC-Base-XML'
 
