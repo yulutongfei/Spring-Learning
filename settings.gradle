@@ -10,4 +10,5 @@ include 'Spring-MVC-ViewResolver'
 include 'Spring-MVC-LocaleResolver'
 include 'Spring-MVC-MultipartResolver'
 include 'Spring-MVC-WebSocket'
+include 'Spring-MVC-Formatting'
 
