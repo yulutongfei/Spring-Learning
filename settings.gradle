@@ -1,3 +1,13 @@
 rootProject.name = 'Spring-Learning'
 include 'Spring-MVC-Base-XML'
+include 'Spring-MVC-RequestMapping'
+include 'Spring-MVC-HttpMessageConverter-Base'
+include 'Spring-MVC-HttpMessageConverter-XML'
+include 'Spring-MVC-HttpMessageConverter-JSON'
+include 'Spring-MVC-ModelAndView'
+include 'Spring-MVC-DataBinder'
+include 'Spring-MVC-ViewResolver'
+include 'Spring-MVC-LocaleResolver'
+include 'Spring-MVC-MultipartResolver'
+include 'Spring-MVC-WebSocket'
 

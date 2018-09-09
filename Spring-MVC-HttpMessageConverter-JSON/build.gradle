@@ -22,4 +22,5 @@ dependencies {
 
     compile "org.springframework:spring-webmvc:${spring}"
     providedCompile 'javax.servlet:javax.servlet-api:4.0.1'
+    compile 'com.alibaba:fastjson:[1.2.49,)'
 }
